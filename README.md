@@ -1,7 +1,7 @@
 # Hi, I'm Yuki Takahashi 👋
 
 南山大学院 理工学研究科 ソフトウェア工学専攻に所属し、**システム開発における生成AI**を研究しています。  
-独学で React / TypeScript を中心にWebアプリを開発中。
+独学で React / TypeScript を中心にWebアプリを開発中です。
 
 ---
 
