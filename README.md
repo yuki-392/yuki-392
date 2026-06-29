@@ -23,7 +23,7 @@
 
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Google Calendar API`
 
-### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-deck-mvp)
+### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-mvp)
 2枚のカードを合成して作った「オリジナルカード」を切り札に、開始デッキ・敵図鑑・鍛冶を組み合わせて戦うカードローグライク。キャラクター選択の代わりに「開始デッキ」でランの戦術方針を選び、敵図鑑を育ててオリジナルカードを強化していく。
 
 `TypeScript` `Vite` `Node.js built-in test runner`
