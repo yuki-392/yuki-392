@@ -32,5 +32,4 @@
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://portfolio-five-neon-kwx36xbpp4.vercel.app
 - 📧 Email: yukisoleil16@gmail.com
