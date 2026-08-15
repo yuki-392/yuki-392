@@ -1,7 +1,8 @@
 # Hi, I'm Yuki👋
 
 **システム開発における生成AI**を研究しています。  
-独学で React / TypeScript を中心にWebアプリを開発中です。
+独学で React / TypeScript を中心にWebアプリを開発した経験があります。
+現在はUnityを用いたゲーム制作に注力しています。
 
 ---
 
@@ -18,15 +19,19 @@
 
 ## 🚀 Projects
 
+### [カードバトル型ローグライク]([https://github.com/yuki-392/roguelike-unity-portfolio](https://github.com/yuki-392/roguelike-unity-portfolio))
+2枚のカードを合成して作った「オリジナルカード」を切り札に、開始デッキ・敵図鑑・鍛冶を組み合わせて戦うカードローグライク。キャラクター選択の代わりに「開始デッキ」でランの戦術方針を選び、敵図鑑を育ててオリジナルカードを強化していく。
+`Unity` `C#`
+
+### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-mvp)
+上記ゲームのMVP版。こちらは試作品として、TypeScriptを用いて作成した。現在は更新していない。
+
+`TypeScript` `Vite` `Node.js built-in test runner`
+
 ### [就職活動スケジュール調整アシスタント](https://github.com/yuki-392/job-schedule-assistant)
 面接の日程調整メール作成を効率化するWebアプリ。Google Calendar API と連携し、空き時間の自動判定からメール文生成・Gmail 送信まで一気通貫で行える。
 
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Google Calendar API`
-
-### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-mvp)
-2枚のカードを合成して作った「オリジナルカード」を切り札に、開始デッキ・敵図鑑・鍛冶を組み合わせて戦うカードローグライク。キャラクター選択の代わりに「開始デッキ」でランの戦術方針を選び、敵図鑑を育ててオリジナルカードを強化していく。
-
-`TypeScript` `Vite` `Node.js built-in test runner`
 
 ---
 
