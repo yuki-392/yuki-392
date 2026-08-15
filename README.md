@@ -19,11 +19,11 @@
 
 ## 🚀 Projects
 
-### [カードバトル型ローグライク]([https://github.com/yuki-392/roguelike-unity-portfolio](https://github.com/yuki-392/roguelike-unity-portfolio))
+### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-unity-portfolio)
 2枚のカードを合成して作った「オリジナルカード」を切り札に、開始デッキ・敵図鑑・鍛冶を組み合わせて戦うカードローグライク。キャラクター選択の代わりに「開始デッキ」でランの戦術方針を選び、敵図鑑を育ててオリジナルカードを強化していく。
 `Unity` `C#`
 
-### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-mvp)
+### [カードバトル型ローグライクのMVP](https://github.com/yuki-392/roguelike-mvp)
 上記ゲームのMVP版。こちらは試作品として、TypeScriptを用いて作成した。現在は更新していない。
 
 `TypeScript` `Vite` `Node.js built-in test runner`
