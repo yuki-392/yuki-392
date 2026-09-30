@@ -25,7 +25,7 @@
 ### [就職活動スケジュール調整アシスタント](https://github.com/yuki-392/job-schedule-assistant)
 面接の日程調整メール作成を効率化するWebアプリ。Google Calendar API と連携し、空き時間の自動判定からメール文生成・Gmail 送信まで一気通貫で行える。
 
-`Next.js` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `Google Calendar API`　`Claude Code`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Google Calendar API`　`Claude Code`
 
 ---
 
