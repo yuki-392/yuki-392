@@ -10,6 +10,7 @@
 
 ### [カードバトル型ローグライク](https://github.com/yuki-392/roguelike-unity-portfolio)
 2枚のカードを合成して作った「オリジナルカード」を切り札に、開始デッキ・敵図鑑・鍛冶を組み合わせて戦うカードローグライク。キャラクター選択の代わりに「開始デッキ」でランの戦術方針を選び、敵図鑑を育ててオリジナルカードを強化していく。
+
 `Unity 6000.5.6f1` `C#` `Universal Render Pipeline（URP）17.5.0` `UI Toolkit（UXML / USS / PanelSettings）` `Unity Test Framework 1.7.0 / NUnit` `Node.js` `Google Sheets / Google Apps Script` `OpenAI Codex`
 
 ### [カードバトル型ローグライクのMVP](https://github.com/yuki-392/roguelike-mvp)
